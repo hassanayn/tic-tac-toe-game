@@ -33,3 +33,4 @@ This repository contains a simple command-line implementation of the classic Tic
 
 ## Developed by
 - [Hassanayn Kashmal](https://github.com/hassanayn)
+- Play Fair Be Positive
